@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dan149
 - 👀 I’m interested in Python, PHP, C++ and JavaScript.
-- 🌱 I’m currently learning PHP and JavaScript.
+- 🌱 I’m currently learning PHP, C++ and JavaScript.
 - 📫 How to reach me : danfaldev@gmail.com
 
 <!---
